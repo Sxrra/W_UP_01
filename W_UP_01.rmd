@@ -73,3 +73,7 @@ We see the probability of getting the result we found assuming the null hypothes
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+Overall, we sought to determine if there was a difference in the average number of pushups that skill players and line players can do in 2 minutes.
+
+The p-value indicated we reject the null hypothesis, and conclude that Georgetown football line players do, on average, fewer pushups in 2 minutes than skill players.
+
